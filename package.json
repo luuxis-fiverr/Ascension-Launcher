@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.1.0",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "name": "Ascension Launcher",
+    "preductname": "Ascension Launcher",
+    "version": "1.1.1",
+    "description": "Launcher pour Ascension d'Arda serveur minecraft moddé Semi-RP dans l'univers du Seigneur des Anneaux",
     "main": "src/app.js",
     "author": "Luuxis",
-    "url": "http://launcher.selvania.fr",
+    "url": "https://whatpim.luuxis.fr",
     "engines": {
         "node": "^18.x.x"
     },
@@ -31,6 +31,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/luuxis-fiverr/Ascension-Launcher.git"
     }
 }
